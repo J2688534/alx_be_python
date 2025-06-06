@@ -20,5 +20,3 @@ match operation:
         result = "Invalid operation selected."
 
         print(f"The result is: {result}")
-
-
